@@ -1,0 +1,76 @@
+h1{
+	
+	color:red;
+	font-size:30px;
+	font-style:italic;
+	font-family:impact;
+	margin-top:0px;
+	margin-right:1000px
+	padding:100px
+	}
+body
+{
+	background-image:url("IMG_20200306_144935.jpg");
+	
+}
+p{color:blue;
+font-size:15px;	
+}
+
+#am{color:pink}
+#jam{font-size:20px}
+.am{color:yellow;
+font-size:20px}
+
+
+.kola{
+	background-color:pink;
+	width:200px;
+	height:50px;
+	
+}
+
+#lichu{
+	background-color:red;
+	width:100px;
+	height:50px;
+	
+	margin-top:50px;
+	margin-bottom:30px;
+	margin-left:50px;
+	
+	padding:50px;
+	
+}
+
+#wrapper{
+	background-color:pink;
+	border:10px solid blue;
+	height:100px;
+	width:2oopx;
+	
+	overflow:scroll
+	
+}
+
+.mango{
+	width:100px;
+	height:50px;
+	background-color:red;
+	
+}
+
+.mango:hover{
+	width:200px;
+	height:100px;
+	background-color:blue;
+	
+}
+
+h2:hover{
+	color:yellow;
+	font-size:50px;
+	background-color:pink;
+	
+}
+
